@@ -96,6 +96,6 @@ Coffee shop details
 
 If you have any questions, please contact me at :
 
-* GitHub profile : [JonHarrison](https://github.com/JonHarrison)
+* GitHub profile : [agaffar74](https://github.com/agaffar74)
 * Email : [******]()
 * LinkedIn : [******]()
