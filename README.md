@@ -79,12 +79,12 @@ Coffee shop details
 
 ## Links
 
-* [Link to the deployed website](https://jonharrison.github.io/energise/)
-* [Link to the code repository](https://github.com/JonHarrison/energise)
+* [Link to the deployed website](https://agaffar74.github.io/ENERGISE/)
+* [Link to the code repository](https://github.com/agaffar74/ENERGISE)
 
 ## Wiki
 
-* The project Wiki is available [here](https://github.com/JonHarrison/energise/wiki)
+* The project Wiki is available [here](https://github.com/agaffar74/ENERGISE/wiki)
 
 ## External Resources
 
